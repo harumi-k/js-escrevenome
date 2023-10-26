@@ -1,8 +1,4 @@
 
-
-sketch.js
-Salvo: 19 minutos atrás
-1
 function setup() {
 2
   createCanvas(600, 600);
